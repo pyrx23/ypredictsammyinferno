@@ -1,0 +1,9 @@
+.btnn {
+    color: white;
+    font-weight: 800;
+    font-size: 1rem;
+    padding: 1rem;
+    background: linear-gradient(90deg,
+            rgb(116, 66, 223),
+            rgb(226, 58, 142))
+}
